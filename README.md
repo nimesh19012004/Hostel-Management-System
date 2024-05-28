@@ -9,10 +9,6 @@ A web-based application to manage students and hostel details, developed using P
   - [User Module](#user-module)
 - [Technologies Used](#technologies-used)
 - [Software Requirements](#software-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The Hostel Management System is designed to streamline the management of hostel operations. The system is divided into two main modules: Admin and User.
